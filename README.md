@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Todo List
+A simple todo list made using React. Users are able to make a todo list of things that needs to get done. Functionality includes editing, deleting, and crossing off finished entries. This project is part of The Modern React Bootcamp by Colt Steele on Udemy.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
